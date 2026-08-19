@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📚 RAG Document Chat")
+st.title("📚 DocuMind — AI Document Assistant")
 st.write("Upload a PDF and ask questions about it.")
 
 
