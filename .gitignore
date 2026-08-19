@@ -1,0 +1,7 @@
+venv/
+.env
+chroma_db/
+chroma-db/
+uploaded_book.pdf
+*.pdf
+__pycache__/

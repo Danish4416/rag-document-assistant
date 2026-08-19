@@ -1,0 +1,43 @@
+1. Supervised Learning
+
+Model learns from labeled data (X → y) to make predictions.
+
+Regression — Predicts continuous values, e.g. house price.
+Classification — Predicts discrete classes, e.g. spam/not spam.
+2. Unsupervised Learning
+
+Model learns patterns from unlabeled data without a target variable.
+
+Clustering — Groups similar data points, e.g. customer segmentation.
+Dimensionality Reduction — Reduces the number of features while retaining important information.
+Anomaly Detection — Finds unusual or abnormal observations.
+3. Semi-Supervised Learning
+
+Uses both labeled and unlabeled data, useful when labeling large datasets is expensive.
+
+4. Self-Supervised Learning
+
+The model creates learning signals from the data itself, rather than requiring manually labeled data.
+
+5. Reinforcement Learning
+
+An agent learns by interacting with an environment, receiving rewards for good actions and penalties for bad ones.
+
+6. Ensemble Learning
+
+Combines multiple models to produce a stronger and more reliable model.
+
+Bagging — Builds models independently and combines their predictions.
+Boosting — Builds models sequentially, where each model improves previous errors.
+Stacking — Combines different types of models using another model.
+7. Transfer Learning
+
+Uses knowledge learned from an existing model and adapts it to a new but related task.
+
+8. Online Learning
+
+Model continuously learns and updates as new data arrives instead of training only once.
+
+9. Active Learning
+
+Model identifies the most useful data points to label, reducing the amount of manual labeling required.

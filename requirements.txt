@@ -1,0 +1,32 @@
+# LLM - Mistral AI
+langchain-mistralai
+mistralai
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Vector Database
+chromadb
+langchain-chroma
+
+# Embeddings
+sentence-transformers
+
+# Document Loaders
+pypdf
+python-docx
+unstructured
+
+# Environment Variables
+python-dotenv
+
+# Web App
+streamlit
+
+# Useful utilities
+numpy
+pandas
+tiktoken
